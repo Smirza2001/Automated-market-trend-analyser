@@ -1,0 +1,11 @@
+ddgs
+fpdf2
+gradio
+langchain
+langchain-classic
+langchain-community
+langchain-core
+langchain-openai
+pydantic
+python-dotenv
+wikipedia
